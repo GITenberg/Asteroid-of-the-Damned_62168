@@ -1,0 +1,45 @@
+_repo: Asteroid-of-the-Damned_62168
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Wylie, Dirk
+    aliases:
+    - Dockweiler, Joseph Harold
+    - Dockweiller, Henry
+    - Lavond, Paul Dennis
+    birthdate: 1920
+    deathdate: 1949
+    gutenberg_agent_id: '51804'
+    url: http://www.gutenberg.org/2009/agents/51804
+  - agent_name: Pohl, Frederik
+    aliases:
+    - Pohl, Frederick
+    - Pohl, Frederik George, Jr.
+    birthdate: 1919
+    deathdate: 2013
+    gutenberg_agent_id: '25413'
+    url: http://www.gutenberg.org/2009/agents/25413
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/46565
+    - https://en.wikipedia.org/wiki/Frederik_Pohl
+description: 'Attributed to Pohl and Wylie by the Internet Speculative Fiction Database:
+  http://www.isfdb.org/cgi-bin/title.cgi?1417015'
+gutenberg_issued: '2020-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62168'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Drug traffic -- Fiction'
+- !lcsh 'Asteroids -- Fiction'
+- GITenberg
+title: Asteroid of the Damned
+url: http://www.gutenberg.org/ebooks/62168
